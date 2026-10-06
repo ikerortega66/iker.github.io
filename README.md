@@ -1,6 +1,6 @@
 ---
 Layout: page
-titlle:SOBRE MI!!
+titlle: SOBRE MI!!
 ---
 # Hola, soy Iker
 
