@@ -1,3 +1,7 @@
+---
+Layout: page
+titlle:SOBRE MI!!
+---
 # Hola, soy Iker
 
 Esta es mi página web.
